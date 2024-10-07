@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 - 🌱 I’m currently studying Front End Development at Noroff.
+  
 - ⚡ Fun fact: German Shepherds have a unique "double coat," with a soft undercoat and a dense outer layer, which helps regulate their body temperature, keeping them warm in the winter and cool in the summer! Remember to get a vaccum cleaner that can handle this if you're thinking of getting German Shepherd!
 <!--
 - 👯 I’m looking to collaborate on ...
