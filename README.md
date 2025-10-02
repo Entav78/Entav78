@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently studying Front End Development at Noroff.
-  
-- ⚡ Fun fact: Mom-students are master multitaskers! Studies show that juggling schoolwork and parenting can boost time management skills—making them pros at balancing deadlines and diaper changes!
+Front-end developer focused on React + TypeScript. I care about accessible, fast interfaces and tidy component APIs. Recent work: my portfolio and the ksa.no site (custom domain, Netlify).
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
